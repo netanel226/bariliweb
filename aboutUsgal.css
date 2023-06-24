@@ -31,7 +31,7 @@ img {
     vertical-align: middle;
 }
 
-/* Position the image container (needed to position the left and right arrows) */
+/* אזור לגודל הגלריה */
 .container {
     position: relative;
     width: 40vw;
